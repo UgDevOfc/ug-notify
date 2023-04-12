@@ -16,7 +16,7 @@
 <br/>
 
 ## Features:
-- Different Types of Notifications (Success, Warning, Error, Information)
+- Different Types of Notifications (Success, Error, Information, Bag, Phone)
 - Supports **All Frameworks**
 - You can custom the types
 
